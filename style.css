@@ -1,0 +1,29 @@
+body {
+    background-color: #E9ECEF;
+}
+
+ul {
+    list-style-type: none;
+    display: block;
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+
+h6 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #E9ECEF;
+    border: 0px solid;
+    border-radius: 10px;
+}
+
+.card {
+    display: block;
+    border-radius: 10px;
+}
+
+.container {
+    margin-top: 20px;
+}
+
